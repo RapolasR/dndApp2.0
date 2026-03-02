@@ -1,0 +1,22 @@
+{
+    "name": "Goblin",
+    "ac": "11",
+    "hp": "9",
+
+    "dexterity": "12",
+    "athletics": "11",
+    "intelegence": "10",
+    
+    "weapons": [
+        "Dagger"
+    ],
+
+    "wToHit": [
+        "+1"
+    ],
+    "wDamage": [
+        "1d4 +1"
+    ],
+
+    "note": "use in groups (3-5)"
+}
